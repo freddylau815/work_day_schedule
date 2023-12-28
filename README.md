@@ -16,4 +16,6 @@ Link to deployed code: https://freddylau815.github.io/work_day_schedule/
 
  ## Usage
  Open index.html in browser
- ![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)## Technologies
+
+ ## License
+ ![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)
