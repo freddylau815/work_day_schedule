@@ -4,7 +4,7 @@
 In this project, I created a work-day schedule app that saves events for the average work day from 9AM–5PM. The calendar shows the current date at the top. There are time blocks for every hour of the work day. The time blocks are color-coded to show past, present, and future times. Users can type in their events and save them to local storage, so they will be there when the user refreshes the page. 
 
 ## Repository
-Link to deployed code:
+Link to deployed code: https://freddylau815.github.io/work_day_schedule/
 
 ## Technologies
  - This is written with HTML5, CSS and JavaScript
